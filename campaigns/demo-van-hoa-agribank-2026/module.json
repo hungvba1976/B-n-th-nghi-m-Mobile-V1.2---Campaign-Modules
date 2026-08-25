@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "demo-van-hoa-agribank-2026",
+  "type": "campaign",
+  "name": "MÔ PHỎNG – Tìm hiểu Văn hóa Agribank 2026",
+  "description": "Module thử nghiệm thứ hai nhằm kiểm tra nhiều Campaign hoạt động đồng thời.",
+  "version": "1.0",
+  "startDate": "2026-08-01",
+  "endDate": "2026-12-31",
+  "practiceEnabled": true,
+  "mockExamEnabled": true,
+  "examQuestionCount": 20,
+  "examMinutes": 15,
+  "shuffleQuestions": true,
+  "icon": "🏆",
+  "demo": true,
+  "questionsUrl": "./campaigns/demo-van-hoa-agribank-2026/questions.json",
+  "questionCount": 40,
+  "checksumSha256": "8c44e56b7cc2130fc52cf15268cebfd664e14f9c8931bc1f2c32d34e2193aef1"
+}
