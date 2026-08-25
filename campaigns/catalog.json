@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "moduleId": "demo-chuyen-doi-so-2026",
+      "name": "MÔ PHỎNG – Tìm hiểu Chuyển đổi số 2026",
+      "version": "1.0",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-25",
+      "moduleUrl": "./campaigns/demo-chuyen-doi-so-2026/module.json",
+      "demo": true,
+      "icon": "💡",
+      "status": "ACTIVE",
+      "startAt": "2026-08-01T00:00:00+07:00",
+      "endAt": "2026-08-25T17:00:00+07:00"
+    },
+    {
+      "moduleId": "demo-van-hoa-agribank-2026",
+      "name": "MÔ PHỎNG – Tìm hiểu Văn hóa Agribank 2026",
+      "version": "1.0",
+      "startDate": "2026-08-01",
+      "endDate": "2026-12-31",
+      "moduleUrl": "./campaigns/demo-van-hoa-agribank-2026/module.json",
+      "demo": true,
+      "icon": "🏆",
+      "status": "ACTIVE",
+      "startAt": "2026-08-01T00:00:00+07:00",
+      "endAt": "2026-12-31T23:59:59+07:00"
+    },
+    {
+      "moduleId": "demo-da-ket-thuc",
+      "name": "MÔ PHỎNG – Cuộc thi đã kết thúc",
+      "version": "1.0",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-24",
+      "moduleUrl": "./campaigns/demo-da-ket-thuc/module.json",
+      "demo": true,
+      "icon": "🗑️",
+      "status": "CLOSED",
+      "endAt": "2026-08-24T12:00:00+07:00"
+    }
+  ]
+}
