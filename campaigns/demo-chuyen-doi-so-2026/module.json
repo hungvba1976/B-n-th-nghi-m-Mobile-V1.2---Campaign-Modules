@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "demo-chuyen-doi-so-2026",
+  "type": "campaign",
+  "name": "MÔ PHỎNG – Tìm hiểu Chuyển đổi số 2026",
+  "description": "Module thử nghiệm kiến trúc Campaign. Dùng các câu Chuyển đổi số hiện có để kiểm tra Luyện tập và Thi thử.",
+  "version": "1.0",
+  "startDate": "2026-08-01",
+  "endDate": "2026-12-31",
+  "practiceEnabled": true,
+  "mockExamEnabled": true,
+  "examQuestionCount": 10,
+  "examMinutes": 10,
+  "shuffleQuestions": true,
+  "icon": "💡",
+  "demo": true,
+  "questionsUrl": "./campaigns/demo-chuyen-doi-so-2026/questions.json",
+  "questionCount": 10,
+  "checksumSha256": "80b13e738a4d2d2819742bbf2772674428b21c0991a6253ff721f2a9689a3a97"
+}
