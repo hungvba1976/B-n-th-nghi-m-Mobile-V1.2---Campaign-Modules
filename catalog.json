@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "moduleId": "can_bo_tin_dung_gioi_nam_2026",
+      "name": "CÁN BỘ TÍN DỤNG GIỎI NĂM 2026",
+      "version": "1.0",
+      "status": "ACTIVE",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-26",
+      "startAt": "2026-08-25T08:00:00+07:00",
+      "endAt": "2026-08-26T08:00:00+07:00",
+      "moduleUrl": "./campaigns/can_bo_tin_dung_gioi_nam_2026/module.json",
+      "icon": "🏆",
+      "demo": false
+    }
+  ]
+}
