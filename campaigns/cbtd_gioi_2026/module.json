@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "cbtd_gioi_2026",
+  "type": "campaign",
+  "name": "CBTD giỏi 2026",
+  "description": "",
+  "version": "1.0",
+  "status": "ACTIVE",
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-27",
+  "startAt": "2026-08-26T08:00:00+07:00",
+  "endAt": "2026-08-27T17:00:00+07:00",
+  "practiceEnabled": true,
+  "mockExamEnabled": true,
+  "examQuestionCount": 10,
+  "examMinutes": 3,
+  "shuffleQuestions": true,
+  "icon": "🏆",
+  "demo": false,
+  "questionsUrl": "./campaigns/cbtd_gioi_2026/questions.json",
+  "questionCount": 321,
+  "checksumSha256": "eae00a6dad4ea2f8cb10f787883990dc137d9060331a8a5b5fd08dac7814978f"
+}
