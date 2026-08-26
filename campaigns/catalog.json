@@ -1,4 +1,3 @@
-
 {
   "schemaVersion": 1,
   "campaigns": [
@@ -39,6 +38,19 @@
       "icon": "🗑️",
       "status": "CLOSED",
       "endAt": "2026-08-24T12:00:00+07:00"
+    },
+    {
+      "moduleId": "cbtd_gioi_2026",
+      "name": "CBTD giỏi 2026",
+      "version": "1.0",
+      "status": "ACTIVE",
+      "startDate": "2026-08-26",
+      "endDate": "2026-08-27",
+      "startAt": "2026-08-26T08:00:00+07:00",
+      "endAt": "2026-08-27T17:00:00+07:00",
+      "moduleUrl": "./campaigns/cbtd_gioi_2026/module.json",
+      "icon": "🏆",
+      "demo": false
     }
   ]
 }
