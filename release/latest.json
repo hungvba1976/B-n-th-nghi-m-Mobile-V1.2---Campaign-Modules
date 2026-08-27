@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "bankVersion": "2026.08.1",
-  "publishedAt": "2026-08-24T15:45:00+07:00",
-  "questionCount": 4967,
-  "newCount": 0,
-  "updatedCount": 0,
-  "checksumSha256": "1721b7b59e5f098a6d9629b7a6566fa376619087ff7f4ead3411d9b58c2beacf",
-  "banksUrl": "./release/2026.08.1/banks.json",
-  "manifestUrl": "./release/2026.08.1/manifest.json"
+  "bankVersion": "2026.08.2",
+  "publishedAt": "2026-08-27T16:41:33+07:00",
+  "questionCount": 4947,
+  "newCount": 1,
+  "updatedCount": 17,
+  "checksumSha256": "46a3deaaba3b5a76ac3ad4fa2c3c583c28eb4f2c190781692cd478e496fa9f01",
+  "banksUrl": "./release/2026.08.2/banks.json",
+  "manifestUrl": "./release/2026.08.2/manifest.json"
 }
