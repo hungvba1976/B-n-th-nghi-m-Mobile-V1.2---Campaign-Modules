@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "phap_che",
+  "type": "campaign",
+  "name": "Pháp chế",
+  "description": "",
+  "version": "1.0",
+  "status": "ACTIVE",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-31",
+  "startAt": "2026-08-27T08:00:00+07:00",
+  "endAt": "2026-08-31T17:00:00+07:00",
+  "practiceEnabled": true,
+  "mockExamEnabled": true,
+  "examQuestionCount": 20,
+  "examMinutes": 10,
+  "shuffleQuestions": true,
+  "icon": "🏆",
+  "demo": false,
+  "questionsUrl": "./campaigns/phap_che/questions.json",
+  "questionCount": 266,
+  "checksumSha256": "da7c930d76e0ff982a4ab522b2f3909465a98d1a1695c29169e8ebea4ac1d07b"
+}
