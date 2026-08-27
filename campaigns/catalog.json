@@ -51,6 +51,32 @@
       "moduleUrl": "./campaigns/cbtd_gioi_2026/module.json",
       "icon": "🏆",
       "demo": false
+    },
+    {
+      "moduleId": "phap_che",
+      "name": "Pháp chế",
+      "version": "1.0",
+      "status": "ACTIVE",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-31",
+      "startAt": "2026-08-27T08:00:00+07:00",
+      "endAt": "2026-08-31T17:00:00+07:00",
+      "moduleUrl": "./campaigns/phap_che/module.json",
+      "icon": "🏆",
+      "demo": false
+    },
+    {
+      "moduleId": "can_bo_ngan_hang_sieu_cap",
+      "name": "Cán bộ ngân hàng siêu cấp",
+      "version": "1.0",
+      "status": "ACTIVE",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-28",
+      "startAt": "2026-08-27T08:00:00+07:00",
+      "endAt": "2026-08-28T17:00:00+07:00",
+      "moduleUrl": "./campaigns/can_bo_ngan_hang_sieu_cap/module.json",
+      "icon": "🏆",
+      "demo": false
     }
   ]
 }
