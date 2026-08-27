@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "can_bo_ngan_hang_sieu_cap",
+  "type": "campaign",
+  "name": "Cán bộ ngân hàng siêu cấp",
+  "description": "",
+  "version": "1.0",
+  "status": "ACTIVE",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-28",
+  "startAt": "2026-08-27T08:00:00+07:00",
+  "endAt": "2026-08-28T17:00:00+07:00",
+  "practiceEnabled": true,
+  "mockExamEnabled": true,
+  "examQuestionCount": 20,
+  "examMinutes": 15,
+  "shuffleQuestions": true,
+  "icon": "🏆",
+  "demo": false,
+  "questionsUrl": "./campaigns/can_bo_ngan_hang_sieu_cap/questions.json",
+  "questionCount": 1035,
+  "checksumSha256": "c6037b2ec5e6438a09e06d901169eede111de4df7f0350b33b2f55a3987c7477"
+}
